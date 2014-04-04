@@ -16,13 +16,6 @@ pp (make it text)
 bl (make it text)
 fav (make it text)
 isadmin (make it varchar with 3 chars)
-step 6: create a table named "settings" and make it 5 collms
-step 7: name the collms these
-bg (make it text)
-logo (make it text)
-nfp (make it varchar with 3 chars)
-cssc (make it text)
-title (make it varchar with 86 chars)
 step 8: locate cnf.php
 step 9: open with text editor
 step 10: look for "mysql_connect("localhost","root","")" and "mysql_select_db(phpsocial)"
