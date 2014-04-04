@@ -1,12 +1,14 @@
-<?php include 'cnf.php'; ?>
-
+<?php include 'cnf.php'; 
+echo "
 <!DOCTYPE HTML>
 
 <html>
 
 <head>
-<title><? echo $title; ?></title>
-<link rel="stylesheet" type="text/css" href="<? echo $cssc; ?>">
+<title>" . $title . "</title>
+<link rel="stylesheet" type="text/css" href="" . $cssc . ">
 </head>
 <body>
 
+";
+?>
