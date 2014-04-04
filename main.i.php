@@ -5,7 +5,7 @@
 <html>
 
 <head>
-<title><?php echo $title; ?></title>
+<title><?php echo $t_html_tag; ?></title>
 <link rel="stylesheet" type="text/css" href="<?php echo $cssc; ?>">
 </head>
 <body>
