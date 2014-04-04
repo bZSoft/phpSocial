@@ -2,3 +2,8 @@ html {
 	background: url("img/b.bmp");
 	font-family: arial;
 }
+#m {
+	background-color: white;
+	border-width: 1px;
+	border-style: lined;
+}

@@ -9,3 +9,6 @@
 <link rel="stylesheet" type="text/css" href="<?php echo $cssc; ?>">
 </head>
 <body>
+<div id="m">
+<img src="<?php echo $logo; ?>">
+</div>
