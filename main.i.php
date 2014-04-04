@@ -10,6 +10,6 @@
 </head>
 <body>
 <div id="m">
+<div id="me">
 <a href="<?php echo $link; ?>"><img src="<?php echo $logo; ?>"></a>
-
 </div>

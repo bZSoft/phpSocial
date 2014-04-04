@@ -9,3 +9,8 @@ html {
 	margin-left: 200px;
 	margin-right: 200px;
 }
+#me {
+	border-bottom-width: 1px;
+	border-bottom-color: grey;
+	border-bottom-style: dotted;
+}

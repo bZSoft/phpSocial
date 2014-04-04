@@ -2,7 +2,7 @@
 $logo = "img/l.bmp";
 $cssc = "stl.css";
 $nfp = "no";
-$title = "phpSocial - social networking script";
+$title = "phpSocial";
 $link = "http://localhost";
 mysql_connect("localhost","root","");
 mysql_select_db("phpsocial");
