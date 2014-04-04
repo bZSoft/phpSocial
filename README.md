@@ -18,7 +18,7 @@ fav (make it text)
 isadmin (make it varchar with 3 chars)
 step 8: locate cnf.php
 step 9: open with text editor
-step 10: look for "mysql_connect("localhost","root","")" and "mysql_select_db(phpsocial)"
+step 10: look for "mysql_connect("localhost","root","")" and "mysql_select_db("phpsocial")"
 step 11: change to fit mysql login and db name
 and your'e done! :)
 

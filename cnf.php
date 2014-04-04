@@ -4,5 +4,5 @@ $cssc = "stl.css";
 $nfp = "no";
 $title = "phpSocial - social networking script";
 mysql_connect("localhost","root","");
-mysql_select_db(phpsocial);
+mysql_select_db("phpsocial");
 ?>
