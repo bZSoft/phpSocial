@@ -5,7 +5,7 @@ html {
 #m {
 	background-color: white;
 	border-width: 1px;
-	border-style: lined;
+	border-style: dotted;
 	margin-left: 200px;
 	margin-right: 200px;
 }
