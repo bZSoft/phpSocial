@@ -6,6 +6,6 @@
 
 <head>
 <title><?php echo $title; ?></title>
-<link rel="stylesheet" type="text/css" href="<?php echo cssc; ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo $cssc; ?>">
 </head>
 <body>
