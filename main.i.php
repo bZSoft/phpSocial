@@ -10,5 +10,6 @@
 </head>
 <body>
 <div id="m">
-<img src="<?php echo $logo; ?>">
+<a href="<?php echo $link; ?>"><img src="<?php echo $logo; ?>"></a>
+
 </div>
