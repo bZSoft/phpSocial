@@ -7,7 +7,7 @@
 	<input name="b" placeholder="Blurb"><br><br>
 	<input name="pp" type="file"><br><br>
 	<input name="fav" placeholder="Favorite things"><br><br>
-	<input value="snu" name="snu" type="submit"><br>
+	<input value="Sign up" name="snu" type="submit"><br>
 </form>
 </div>
 </body>
