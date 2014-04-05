@@ -12,4 +12,5 @@
 <div id="m">
 <div id="me">
 <a href="<?php echo $link; ?>"><img src="<?php echo $logo; ?>"></a>
+<a href="snu.php">Sign up</a>
 </div>
